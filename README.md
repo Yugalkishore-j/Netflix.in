@@ -1,2 +1,3 @@
 # Netflix.in
-Netflix clone 
+Resonsive Netflix clone webpage.
+Using Html and Css
